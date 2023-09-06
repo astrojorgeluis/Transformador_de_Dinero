@@ -1,4 +1,4 @@
-# Transformador de Diner
+# Transformador de Dinero
 Una codigo que convierte una cantidad elegida por el usuario a moneda chilena en monedas y billetes según corresponda.
 Tu ingresas el valor y te lo escribirá en los valores correspondientes.
 
